@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "following of yt tutorial",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Saubhagya Prasad , teacher Hitetsh Choudary",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
+  }
+}
